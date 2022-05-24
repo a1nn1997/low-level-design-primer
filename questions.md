@@ -1,5 +1,5 @@
 ## total qn 137
-## total done
+## total done 5
 1 Design subscription-based sports website which can display scores, game status, history for any games.
 2 Design for online card game say like poker or any other game. 
 3 Design Truecaller.
