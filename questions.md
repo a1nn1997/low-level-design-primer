@@ -4,7 +4,7 @@
 -2 Design for online card game say like poker or any other game. 
 -3 Design Truecaller.
 -4 Design a geographically partitioned multi-player card game, that supports multiple players, multiple games at a time.
- -5 Each game will have one contractor like ones we have in a bar, He can play a game or just watch it. Integrate payment systems.
+ - Each game will have one contractor like ones we have in a bar, He can play a game or just watch it. Integrate payment systems.
  - design a system to fast lookup cars on the market according to the user's geo-position.
  - Design an airport service that will be used to allocate a free runway when the plane is about to land. Data structure for the same. What if the runway is not available? Message passing between control center and the plane. Focus on low-level design and code. Can the same runway be allocated to two different planes (locking)? Database storage needed?
  -6 Design a Ride Sharing Application where drivers can offer rides (origin, destination, no of seats), riders can request rides ( origin, destination, no of seats) and there is an algo to decide which driver should be given the trip in case of a collision ( maximum overlapping one).
@@ -30,8 +30,8 @@
   - quantity
   - price
   
-  You need to output list of stocks in the following format sell_id, buy_id, quantity, price which will get executed. 
-- code a TextPad with following functionality:
+   You need to output list of stocks in the following format sell_id, buy_id, quantity, price which will get executed. 
+5 code a TextPad with following functionality:
   - display() – to display the entire content
   - display(n, m) – to display from line n to m
   - insert(n, text) – to insert text at line n
